@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="taco-cloud (1)" project="taco-cloud" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="tacos.TacoCloudApplicationTests" time="0.924" displayname="TacoCloudApplicationTests" uniqueid="[engine:junit-jupiter]/[class:tacos.TacoCloudApplicationTests]">
+    <testcase name="contextLoads" classname="tacos.TacoCloudApplicationTests" time="0.924" displayname="contextLoads()" uniqueid="[engine:junit-jupiter]/[class:tacos.TacoCloudApplicationTests]/[method:contextLoads()]"/>
+  </testsuite>
+  <testsuite name="tacos.HomeControllerTest" time="0.298" displayname="HomeControllerTest" uniqueid="[engine:junit-jupiter]/[class:tacos.HomeControllerTest]">
+    <testcase name="testHomePage" classname="tacos.HomeControllerTest" time="0.298" displayname="testHomePage()" uniqueid="[engine:junit-jupiter]/[class:tacos.HomeControllerTest]/[method:testHomePage()]"/>
+  </testsuite>
+</testrun>
