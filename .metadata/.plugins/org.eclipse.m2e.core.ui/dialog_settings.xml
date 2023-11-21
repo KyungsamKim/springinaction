@@ -6,6 +6,10 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\kyungsam_kim\workspace_personal\07_spring-master\board4_mybatis_spring실습"/>
+			<item value="C:\Users\kyungsam_kim\workspace_personal\07_spring-master\board1_springmvc2"/>
+			<item value="C:\Users\kyungsam_kim\workspace_personal\07_spring-master\board5_restapi"/>
+			<item value="C:\Users\kyungsam_kim\workspace_personal\07_spring-master\Spring_di2_annotation"/>
 			<item value="C:\Users\kyungsam_kim\Downloads\taco-cloud"/>
 		</list>
 		<list key="projectNameTemplate">
