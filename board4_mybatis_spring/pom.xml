@@ -18,7 +18,6 @@
 		<org.aspectj-version>1.9.9.1</org.aspectj-version>
 		<log4j-version>1.2.17</log4j-version>
 		<org.slf4j-version>1.7.36</org.slf4j-version>
-		
 		<mysql-connector-java-version>8.0.30</mysql-connector-java-version>
 		<mybatis-version>3.5.9</mybatis-version>
 		<mybatis-spring-version>2.0.7</mybatis-spring-version>
@@ -184,7 +183,13 @@
 			<artifactId>mysql-connector-java</artifactId>
 			<version>${mysql-connector-java-version}</version>
 		</dependency>
-		
+		<!-- https://mvnrepository.com/artifact/com.h2database/h2 -->
+		<dependency>
+		    <groupId>com.h2database</groupId>
+		    <artifactId>h2</artifactId>
+		    <version>1.4.200</version>
+		    <scope>runtime</scope>
+		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.mybatis/mybatis -->
 		<dependency>
 			<groupId>org.mybatis</groupId>

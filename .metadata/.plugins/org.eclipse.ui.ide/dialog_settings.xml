@@ -113,12 +113,20 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\kyungsam_kim\workspace_personal\07_spring-master\board5_restapi실습"/>
+			<item value="C:\Users\kyungsam_kim\workspace_personal\07_spring-master\board5_restapi"/>
 			<item value="C:\Users\kyungsam_kim\workspace_personal\07_spring-master"/>
 			<item value="C:\Users\kyungsam_kim\workspace_personal\07_spring-master\hello_spring"/>
 			<item value="C:\Users\kyungsam_kim\workspace_personal\07_spring-master\board1_springmvc"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="com.springsource.sts.wizard.template"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.springframework.ide.eclipse.beans.ui.wizards.category"/>
 		</list>
 	</section>
 </section>

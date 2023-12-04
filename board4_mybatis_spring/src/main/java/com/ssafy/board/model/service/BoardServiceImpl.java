@@ -1,5 +1,7 @@
 package com.ssafy.board.model.service;
 
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.forwardedUrl;
+
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -27,7 +29,7 @@ public class BoardServiceImpl implements BoardService {
 	@Transactional
 	public int writeArticle(BoardDto boardDto) throws Exception {
 		if(boardDto.getFileInfos()==null) {
-			boardMapper.writeArticle(boardDto);
+				boardMapper.writeArticle(boardDto);
 		}else {
 			boardMapper.writeArticle(boardDto);
 			boardMapper.registerFile(boardDto);
